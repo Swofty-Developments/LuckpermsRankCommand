@@ -1,0 +1,16 @@
+#
+#  CREATED BY SWOFTY
+#
+
+#Messages
+#All messages in this plugin are configurable except a couple of built-in messages!
+
+Console: "&7You need to be player to use this command."
+Permission: "&cYou need ADMIN or above to do this command"
+Reload: "&7Plugin &eLuckPerms Rank &7has been reloaded."
+Invalid Usage: "&cInvalid Usage! &e/rank help"
+Player Offline: "&7Player &e%PlayerOffline% &7is not online at this moment."
+Help: "&7Usage: &e/rank <player> <rank>"
+Rank Not Found: "&7Rank &e%Rank% &7does not exist in your database."
+Rank Set: "&b[STAFF] &fYou have set &e%Target%'s &frank to &e%Rank%&7."
+Rank Set Other: "&aYour rank is now &a%Rank%"

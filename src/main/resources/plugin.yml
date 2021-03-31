@@ -1,0 +1,7 @@
+name: LuckpermsRankCommand
+version: ${project.version}
+main: net.swofty.luckpermsrankcommand.LuckpermsRankMain
+
+commands:
+  rank:
+    description: Main Command
