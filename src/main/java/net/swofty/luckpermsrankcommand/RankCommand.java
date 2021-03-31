@@ -35,9 +35,6 @@ public class RankCommand implements CommandExecutor
             player.sendMessage(ChatColor.translateAlternateColorCodes('&', this.plugin.getConfig().getString("Invalid Usage")));
             return false;
         }
-        if (args.length <= 0) {
-            return false;
-        }
         if (!sender.hasPermission("swofty.rankreload")) {
             player.sendMessage(ChatColor.translateAlternateColorCodes('&', LuckpermsRankMain.plugin.getConfig().getString("Permission")));
             return false;
